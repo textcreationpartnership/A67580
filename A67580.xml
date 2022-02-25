@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries to the Protestants concerning the English Reformation, by J.W. Gent. Published with allowance</title>
+            <title>Considerations which obliged Peter Manby Dean of Derry to embrace the Catholique religion. Selections.</title>
+            <author>Manby, Peter, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67580</idno>
+            <idno type="STC">Wing W836A</idno>
+            <idno type="STC">ESTC R219537</idno>
+            <idno type="EEBO-CITATION">99831001</idno>
+            <idno type="PROQUEST">99831001</idno>
+            <idno type="VID">35463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35463)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2085:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries to the Protestants concerning the English Reformation, by J.W. Gent. Published with allowance</title>
+                  <title>Considerations which obliged Peter Manby Dean of Derry to embrace the Catholique religion. Selections.</title>
+                  <author>Manby, Peter, d. 1697.</author>
+                  <author>Ward, Thomas, 1652-1708.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Nathaniel Thompson at the entrance into the Old Spring-Garden near Charing-Cross,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of the Latin questions at the end of: Manby, Peter.  The considerations which obliged Peter Manby Dean of Derry to embrace the Catholique religion.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholic Church --  Apologetic works --  Early works to 1800.</term>
+               <term>Reformation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35463:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <p>SOME QUERIES TO THE PROTESTANTS Concerning the <hi>Engliſh Reformation.</hi>
+            </p>
+            <p>By <hi>J. W.</hi> Gent.</p>
+            <p>
+               <g ref="char:cross">✚</g>
+            </p>
+            <p>
+               <hi>Publiſhed with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nathaniel Thompſon</hi> at the Entrance into the <hi>Old Spring-Garden</hi> near <hi>Charing-Croſs,</hi> 1687.</p>
+            <pb facs="tcp:35463:2"/>
+            <!-- PDF PAGE 106 -->
+            <pb facs="tcp:35463:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 106 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:35463:3"/>
+            <!-- PDF PAGE 107 -->
+            <pb n="3" facs="tcp:35463:3"/>
+            <!-- PDF PAGE 107 -->
+            <head>Some <hi>Queries</hi> to the <hi>PROTESTANTS, concerning the</hi> Engliſh <hi>REFORMATION,</hi>
+            </head>
+            <p>THe <hi>Church</hi> of <hi>England</hi> is either the whole <hi>Catholick Church,</hi> or a <hi>Member</hi> thereof; If a <hi>Member</hi> only, name me that Church or Congregation under the Sun, whoſe <hi>Sacraments</hi> and <hi>Liturgy</hi> ſhe embraces, unleſs ſhe have cut her ſelf off from the reſt of the <hi>Body?</hi>
+            </p>
+            <p>Does ſhe allow the <hi>Sacraments</hi> of <hi>Lutherans</hi> or <hi>Calviniſts?</hi>
+            </p>
+            <p>From whence was <hi>Cranmer</hi> that firſt Patriarch or Refor<g ref="char:EOLhyphen"/>mer of the <hi>Church</hi> of <hi>England,</hi> ſent? Who gave him Au<g ref="char:EOLhyphen"/>thority to Preach his Reformed Goſpel? Was it juſt or ho<g ref="char:EOLhyphen"/>neſt for him to riſe up againſt the <hi>Church</hi> of <hi>Rome,</hi> by vir<g ref="char:EOLhyphen"/>tue of a <hi>Commiſſion</hi> from her received? And if ſo, I pray inform me whether a Biſhop or Miniſter fallen from the <hi>Church</hi> of <hi>England,</hi> may not alſo take upon him to Preach againſt the <hi>Church</hi> of <hi>England,</hi> by pretence of the <hi>Orders</hi> received from her Hands?</p>
+            <p>Whether want of <hi>Miſſion</hi> be not an errour in the Founda<g ref="char:EOLhyphen"/>tion of any Church? It being <hi>Theft</hi> and <hi>Robbery</hi> (as our Savi<g ref="char:EOLhyphen"/>our hath taught us) not <hi>to enter by the dore into the Sheep-fold.</hi>
+            </p>
+            <p>Whether <hi>Cranmer</hi> enter'd by the <hi>Parliament-dore,</hi> or by the Gate of the <hi>Scriptures?</hi> But this latter is the old Song of <hi>Hereticks</hi> and <hi>Sectaries,</hi> perpetually boaſting of <hi>Scripture.</hi> I demand therefore, does not the <hi>Bible</hi> admit of various Interpretations? whence of neceſſity ſome Judge is to be aſſign'd, to determine which is the true <hi>Interpretation,</hi> un<g ref="char:EOLhyphen"/>leſs your inclinations be to wrangle to all Eternity.</p>
+            <p>To theſe <hi>Quaeries</hi> I have often times-deſired an Anſwer, but never yet met with any. If you pretend (as many do) that <hi>Cranmer</hi> and his Aſſociates derived their <hi>Holy Orders</hi> from Chriſt and his Apoſtles, by the hands of <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick</hi> Biſhops. It follows inevitably, that <hi>Roman Catholick</hi> Biſhops did alſo receive their <hi>Orders</hi> from Chriſt and his
+<pb n="4" facs="tcp:35463:4"/>
+               <!-- PDF PAGE 108 -->Apoſtles, and conſequently are true Biſhops; and there<g ref="char:EOLhyphen"/>fore to be heard. By this Anſwer, the <hi>Proteſtants</hi> ſeem to me, to deſtroy their own Cauſe. But you will ſay perhaps, that <hi>Roman Catholick</hi> Biſhops did receive their <hi>Orders,</hi> not their <hi>Doctrine</hi> from Chriſt and his Apoſtles; Very good: I would fain know then, by whoſe Authority the firſt <hi>Re<g ref="char:EOLhyphen"/>formers</hi> roſe up againſt the <hi>Doctrine</hi> of the <hi>Church</hi> of <hi>Rome?</hi> Untie this knot, or confeſs that <hi>Cranmer, Luther, Calvin, Socinus,</hi> &amp;c. made themſelves <hi>Judges, Witneſſes,</hi> and <hi>Accuſers.</hi>
+            </p>
+            <p>But the more common Anſwer is, that every National Church may Reform it ſelf. Be it ſo: Then it follows, <hi>Scot<g ref="char:EOLhyphen"/>land</hi> may Reform it ſelf to <hi>Calviniſm, Saxony</hi> to <hi>Luthera<g ref="char:EOLhyphen"/>niſm,</hi> &amp;c. Moreover, 'tis falſe, that the change of Religion was made here in <hi>England</hi> by Vote of the National Church, or Clergy of <hi>England.</hi> No, no, but by the giddineſs of a <hi>Few,</hi> during the Minority of <hi>Edward</hi> VI. being then a Child of Ten years old. Read the <hi>Annals</hi> of thoſe times, (even <hi>Fox</hi> himſelf) where 'tis evident that almoſt all the <hi>Engliſh</hi> Biſhops (<hi>Cranmer</hi> and two or three more excepted) were utterly againſt the pretended <hi>Reformation.</hi>
+            </p>
+            <p>Yet let us ſuppoſe, but not grant, Religion to have been reform'd here by the Major part of the <hi>Engliſh</hi> Clergy: I underſtand not how it may be Lawful for the Church of <hi>England,</hi> being in actual Communion with the <hi>Catholick Church,</hi> to ſeparate it ſelf from the reſt of the Body. If you ſay this was not done by fault of the <hi>Engliſh</hi> Church, but of the Church of <hi>Rome</hi> obtruding on the World her <hi>Errours</hi> and <hi>Corruptions;</hi> I anſwer in ſhort, that all <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> themſelves being <hi>Judges,</hi> will eſcape Condemnation. And further, let the <hi>Reader</hi> take notice that all <hi>Presbyterians</hi> are wont to urge this very inſtance in their own defence againſt the Church of <hi>England,</hi> to wit, that they have left only the <hi>Errours</hi> and <hi>Corruptions</hi> of the <hi>Engliſh</hi> Church.</p>
+            <p>Whether the true Service of God had been corrupted throughout the whole World before <hi>Cranmers</hi> riſe? If not,
+<pb n="4" facs="tcp:35463:4"/>
+               <!-- PDF PAGE 108 -->tell me in what Provinces of the Earth did it exiſt? Whe<g ref="char:EOLhyphen"/>ther among the <hi>Waldenſes?</hi> But I am ignorant from whence <hi>Peter Waldo,</hi> the <hi>Merchant</hi> of <hi>Lyons,</hi> received his <hi>Miſſion.</hi> Nor do I know whether his <hi>Sacraments</hi> are approv'd by the Church of <hi>England.</hi>
+            </p>
+            <p>Whether at this day there be no Pure and Apoſtolical Ser<g ref="char:EOLhyphen"/>vice of God in the World, except that eſtabliſh'd by Law in <hi>England</hi> and <hi>Ireland?</hi> Whether it be Lawful for the People of <hi>England</hi> to invent a Church to themſelves, divided from all the reſt of the Chriſtian World? By what Authority do they cenſure the <hi>Sacraments</hi> and <hi>Rites</hi> of the <hi>Roman</hi> Church?</p>
+            <p>Whether <hi>Cranmer</hi> was the firſt Arch-Biſhop of the Church of <hi>England?</hi> The reaſon of my doubt, is, becauſe the Arch-Biſhops of <hi>Canterbury</hi> for nine preceding Ages were all <hi>Roman Catholicks?</hi> If he was the firſt, he wanted Epiſ<g ref="char:EOLhyphen"/>copal Succeſſion, becauſe being the firſt of his Sect, he ſuc<g ref="char:EOLhyphen"/>ceeded to none. Then how could he be a Lawful Paſtor, who had neither Succeſſion, Miſſion, nor Miracles to recom<g ref="char:EOLhyphen"/>mend his <hi>New</hi> Doctrine? I ſay <hi>New,</hi> and ſtrange at that time, and for many Ages before.</p>
+            <p>Whether that be a true Church that wants Lawful Pa<g ref="char:EOLhyphen"/>ſtors? And whether Paſtors, not Lawful and True, can be ſaid to have true Sacraments? If not, then, is it not better to Communicate under <hi>One Kind</hi> with <hi>Catholicks,</hi> than un<g ref="char:EOLhyphen"/>der <hi>No Kind</hi> with <hi>Reformers?</hi>
+            </p>
+            <p>Whether the XXXIX. <hi>Articles</hi> of the Church of <hi>England</hi> be <hi>Articles of Faith,</hi> yea or no? If not, then no body is bound to believe them under pain of Damnation. If they be, then hath the Church of <hi>England</hi> invented new <hi>Articles of Faith</hi> beſides thoſe XII. inſtituted by Chriſt &amp; his Apoſtles.</p>
+            <p>Whether the Reformed Religion may not be divided and ſub-divided into endleſs Reformations?</p>
+            <p>Whether in the matter of the <hi>Euchariſt,</hi> the Argument drawn from our <hi>Senſes</hi> be not fallible? The reaſon of this queſtion is, becauſe the <hi>Serpent</hi> deceiv'd our firſt <hi>Parents</hi> by
+<pb n="6" facs="tcp:35463:5"/>
+               <!-- PDF PAGE 109 -->perſwading them to believe their <hi>own Eyes</hi> rather than the <hi>Word of God.</hi> As that <hi>they ſhould eat of the Tree of Know<g ref="char:EOLhyphen"/>ledge becauſe it was fair to the Eye.</hi> Now if <hi>Mankind</hi> were ſo deceiv'd by their <hi>Sight,</hi> pray whence ſhould their other <hi>Senſes</hi> deſerve more credit?</p>
+            <p>Whether the Church of <hi>England</hi> be not changeable ac<g ref="char:EOLhyphen"/>cording to the various inclinations of <hi>Engliſh Parliaments?</hi>
+            </p>
+            <p>Whether the Spirit of <hi>Calvin</hi> denying, and that of <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> affirming a <hi>Corporal Preſence</hi> of Chriſt in the <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> be the ſame Spirit? If not, then both cannot be of God.</p>
+            <p>Was not <hi>John Calvin</hi> a moſt impudent Creature in aſſu<g ref="char:EOLhyphen"/>ming to himſelf the Office of <hi>Reforming</hi> the <hi>World,</hi> being yet but a young Man of 25 or 26 years of age, and that without all pretence of <hi>Miracles,</hi> a thing which Chriſt him<g ref="char:EOLhyphen"/>ſelf undertook not under 30 years of age.</p>
+            <p>Whether, from the Womb of the <hi>Reformation</hi> have not iſſued all thoſe Slaughters, Rapines, Tumults, Plundering of Churches, Schiſms, and Civil Wars which broke out in the year 1641?</p>
+            <p>Whether <hi>Africa</hi> produces more variety of <hi>Monſters,</hi> than <hi>Britain</hi> does <hi>Fanaticks,</hi> where every Man may Read, and In<g ref="char:EOLhyphen"/>terpret the Scriptures according to his own Judgement of Diſcretion?</p>
+            <p>Whether Queen <hi>Elizabeth,</hi> born of <hi>Ann Bolen,</hi> Queen <hi>Ka<g ref="char:EOLhyphen"/>therine</hi> yet living, can be thought Legitimate?</p>
+            <p>How admirable was the Wiſdom of <hi>Henry</hi> VIII. by ex<g ref="char:EOLhyphen"/>pelling one <hi>Pope</hi> of <hi>Rome,</hi> to raiſe up infinite <hi>Popes</hi> of his own Subjects?</p>
+            <p>By whoſe Authority did he Divorce his Virtuous Wife Queen <hi>Katherine?</hi> His own, or a Foreign? If by his own, why may not other Kings alſo put away their Wives at their pleaſure? If <hi>Mary</hi> his Daughter by Queen <hi>Katherine,</hi> was Legitimate Heireſs of the Kingdom, then <hi>Elizabeth</hi> was not; becauſe it was not Lawful for King <hi>Henry</hi> to have two Wives at once.</p>
+            <pb n="7" facs="tcp:35463:5"/>
+            <!-- PDF PAGE 109 -->
+            <p>If that Religion be Sacred that's Eſtabliſhed by Law, why did Queen <hi>Elizabeth</hi> deſtroy the <hi>Catholick Religion</hi> Eſtabliſh'd by ſo many Acts of Parliament?</p>
+            <p>
+               <hi>Eliſabeth</hi> Expell'd 14 <hi>Catholick</hi> Biſhops from their <hi>Sees</hi> for refuſing the <hi>Oath of Supremacy.</hi> But how could they Swear her to be Head or ſupream Governeſs of the Church, when they could not Swear ſhe was Head of the Kingdom?</p>
+            <p>Did not <hi>Cranmer</hi> and his <hi>Reforming Aſsociates</hi> ſteal their <hi>Liturgy</hi> out of the <hi>Roman Miſſal, Ritual</hi> and <hi>Breviary?</hi>
+            </p>
+            <p>Are not <hi>Proteſtants</hi> bound by their <hi>Oath of Supremacy</hi> to obey the King as Supream Governour, as well in all Spi<g ref="char:EOLhyphen"/>ritual or Eccleſiaſtical Things or Cauſes, as Temporal? What mean they by theſe words, <hi>As well in all Spiritual as Temporal Things or Cauſes,</hi> &amp;c. But that <hi>Proteſtants</hi> are Sworn to yield to the King all manner of Obedience, both Civil and Religious? Are they not obliged therefore accor<g ref="char:EOLhyphen"/>ding to this Oath, to become <hi>Catholicks</hi> with a <hi>Catholick</hi> King, <hi>Calviniſts</hi> with a <hi>Calviniſt</hi> King? <hi>Arians</hi> with an <hi>Arian?</hi> I ſay according to this Oath, becauſe the King's Ma<g ref="char:EOLhyphen"/>jeſty is the only Supream Governour (under Chriſt) as well in all Spiritual as Temporal Cauſes. Which words confeſs in the King a Spiritual as well as Civil Juriſdiction. But whence does his Spiritual Juriſdiction appear without the <hi>Power</hi> of the <hi>Keys?</hi>
+            </p>
+            <p>You will ſay the King is to be obey'd ſo far as we may by the Laws of God, and the Kingdom. Be it ſo, then it follows, that the King is not Supream Governour under Chriſt, but the <hi>Laws</hi> of God and the Kingdom. And what if Controverſy riſe between the King and his Subjects about the true Senſe of <hi>Scripture?</hi> Who ſhall be Judge? the pri<g ref="char:EOLhyphen"/>vate Spirit, or not? Hence, if I am not miſtaken, came the <hi>Riſe</hi> of our late <hi>Civil Wars.</hi>
+            </p>
+            <p>Why did ſo many Noble Men under <hi>Edward</hi> VI. and Q. <hi>Elizabeth,</hi> ſo readily embrace the <hi>Reformation?</hi> Was't for Conſcience-ſake, or the Lucre of <hi>Church-Lands?</hi>
+            </p>
+            <pb n="8" facs="tcp:35463:6"/>
+            <!-- PDF PAGE 110 -->
+            <p>Why do <hi>Engliſh-men,</hi> (ſo deſirous of <hi>Novelties,</hi>) hate <hi>Po<g ref="char:EOLhyphen"/>pery?</hi> Perhaps becauſe <hi>Popery</hi> is no <hi>Novelty.</hi>
+            </p>
+            <p>The Church of <hi>England</hi> is either Fallible, or Infallible; if Fallible (as is confeſt by all) then is ſhe not Founded upon a <hi>Rock,</hi> becauſe ſhe may Deceive, and be Deceiv'd.</p>
+            <p>Whether Cardinal <hi>Wolſey</hi> did wiſely by Demoliſhing <hi>Monaſteries</hi> to Found <hi>Colledges?</hi> The reaſon of this doubt is, becauſe the <hi>Tree</hi> of <hi>Knowledge</hi> was not the <hi>Tree</hi> of <hi>Life.</hi>
+            </p>
+            <p>Is there not wanting in the Church of <hi>England</hi> a more correct Tranſlation of the <hi>Bible?</hi> Many material Errours being found in our preſent <hi>Engliſh Bible</hi> tending to <hi>Schiſm</hi> and li<g ref="char:EOLhyphen"/>berty of the <hi>Fleſh.</hi> For inſtance, <hi>Gal.</hi> 5.17. <hi>Dan.</hi> 4.24. where the Prophet ſpeaks thus to King <hi>Nebuchadnezar, Quamobrem, Rex, conſilium meum placeat tibi, &amp; peccata tua ele<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>moſynis redime, &amp; Iniquitates tuas miſericordiis Pauperum.</hi> Which Text the preſent <hi>Engliſh</hi> Tranſlation thus renders, viciouſly enough. <hi>Wherefore O King, break off thy Sins by Righteouſneſs, and thine Iniquities by ſhewing mercy to the Poor.</hi> Whereas it ought to have been Tranſlated <hi>Redeem thy Sins by Alms-deeds, and thine Iniquities by ſhewing mercy to the Poor.</hi> Again, how are St, <hi>Pauls</hi> words to the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> miſrendred, 1 <hi>Cor.</hi> 7.9. <hi>Quod ſi non ſe continent, nubant; But if they cannot contain, let them Marry;</hi> where this word <hi>(cannot)</hi> not being found in the <hi>Greek,</hi> was de<g ref="char:EOLhyphen"/>viſed in favour of the <hi>Fleſh.</hi>
+            </p>
+            <p>Likewiſe the words of Chriſt <hi>Matth.</hi> 19.11. are cor<g ref="char:EOLhyphen"/>rupted in favour of the Fleſh, <hi>Non omnes capiunt verbum iſtud ſed quibus datum eſt.</hi> All Men <hi>(cannot)</hi> receive this ſaying, but ſuch to whom it is given. It ought to be, all Men <hi>do not</hi> receive this ſaying. Alſo the words of <hi>Job,</hi> Chapter 7.1. and many other Texts, eſpecially <hi>Exod.</hi> 20.4. in hatred of the <hi>Picture</hi> of our Saviour. <hi>Non facies tibi ſculptile.</hi> Which word <hi>Sculptile,</hi> is by the 70 Inter<g ref="char:EOLhyphen"/>preters Tranſlated <hi>Idol,</hi> as indeed it ought to be, becauſe God did not forbid <hi>Images,</hi> but <hi>Idols.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35463:6"/>
+            <!-- PDF PAGE 110 -->
+         </div>
+      </body>
+   </text>
+</TEI>
